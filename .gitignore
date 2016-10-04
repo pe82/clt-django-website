@@ -1,0 +1,6 @@
+*.pyc
+*.temp
+*.tmp
+.DS_Store
+temp/
+tmp/
