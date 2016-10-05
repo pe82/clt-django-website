@@ -5,3 +5,5 @@
 temp/
 tmp/
 Dockerfile
+docker-compose.yml
+*.sw*
