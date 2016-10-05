@@ -4,6 +4,4 @@
 .DS_Store
 temp/
 tmp/
-Dockerfile
-docker-compose.yml
 *.sw*
