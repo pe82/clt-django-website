@@ -12,9 +12,9 @@ Repo for our awesome Django website.
    git checkout develop
    ```
 
-3. Make a feature branch following this convention `feature-issue-number` (e.g. `feature-101`)
+3. Make a feature branch following this convention `issue-number` (e.g. `issue-101`)
    ```
-   git checkout -b feature-101
+   git checkout -b issue-101
    ```
 
 4. Develop your features locally.
